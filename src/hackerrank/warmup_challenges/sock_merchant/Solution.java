@@ -1,4 +1,4 @@
-package warmup_challenges.sock_merchant;
+package hackerrank.warmup_challenges.sock_merchant;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

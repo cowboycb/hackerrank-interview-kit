@@ -1,4 +1,4 @@
-package warmup_challenges.jumping_on_the_clouds;
+package hackerrank.warmup_challenges.jumping_on_the_clouds;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package warmup_challenges.repeated_string;
+package hackerrank.warmup_challenges.repeated_string;
 
 
 import java.io.IOException;

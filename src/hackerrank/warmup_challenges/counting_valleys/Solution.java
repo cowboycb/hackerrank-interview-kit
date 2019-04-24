@@ -1,4 +1,4 @@
-package warmup_challenges.counting_valleys;
+package hackerrank.warmup_challenges.counting_valleys;
 
 import java.io.IOException;
 import java.util.HashMap;
